@@ -3,11 +3,11 @@
   <title>傻野博士title</title>
   
   <subtitle>傻野博士的博客</subtitle>
-  <link href="https://fakeserious.github.io/atom.xml" rel="self"/>
+  <link href="https://fakeserious.test.github.io/atom.xml" rel="self"/>
   
-  <link href="https://fakeserious.github.io/"/>
-  <updated>2024-11-12T03:11:10.388Z</updated>
-  <id>https://fakeserious.github.io/</id>
+  <link href="https://fakeserious.test.github.io/"/>
+  <updated>2024-11-12T05:53:57.878Z</updated>
+  <id>https://fakeserious.test.github.io/</id>
   
   <author>
     <name>傻野博士author</name>
@@ -18,33 +18,33 @@
   
   <entry>
     <title>My First Post</title>
-    <link href="https://fakeserious.github.io/2024/11/12/My-First-Post/"/>
-    <id>https://fakeserious.github.io/2024/11/12/My-First-Post/</id>
+    <link href="https://fakeserious.test.github.io/2024/11/12/My-First-Post/"/>
+    <id>https://fakeserious.test.github.io/2024/11/12/My-First-Post/</id>
     <published>2024-11-12T02:18:32.000Z</published>
-    <updated>2024-11-12T03:11:10.388Z</updated>
+    <updated>2024-11-12T05:53:57.878Z</updated>
     
-    <content type="html"><![CDATA[<p>test</p>]]></content>
+    <content type="html"><![CDATA[<p>hello test!</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;test&lt;/p&gt;
+    <summary type="html">&lt;p&gt;hello test!&lt;/p&gt;
 </summary>
       
     
     
     
-    <category term="test" scheme="https://fakeserious.github.io/categories/test/"/>
+    <category term="test" scheme="https://fakeserious.test.github.io/categories/test/"/>
     
     
-    <category term="test" scheme="https://fakeserious.github.io/tags/test/"/>
+    <category term="test" scheme="https://fakeserious.test.github.io/tags/test/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://fakeserious.github.io/2024/11/12/hello-world/"/>
-    <id>https://fakeserious.github.io/2024/11/12/hello-world/</id>
+    <link href="https://fakeserious.test.github.io/2024/11/12/hello-world/"/>
+    <id>https://fakeserious.test.github.io/2024/11/12/hello-world/</id>
     <published>2024-11-12T02:16:54.511Z</published>
     <updated>2024-11-12T02:16:54.511Z</updated>
     

@@ -1,7 +1,7 @@
-https://fakeserious.github.io/2024/11/12/My-First-Post/
-https://fakeserious.github.io/categories/index.html
-https://fakeserious.github.io/tags/index.html
-https://fakeserious.github.io/2024/11/12/hello-world/
-https://fakeserious.github.io/
-https://fakeserious.github.io/tags/test/
-https://fakeserious.github.io/categories/test/
+https://fakeserious.test.github.io/2024/11/12/My-First-Post/
+https://fakeserious.test.github.io/categories/index.html
+https://fakeserious.test.github.io/tags/index.html
+https://fakeserious.test.github.io/2024/11/12/hello-world/
+https://fakeserious.test.github.io/
+https://fakeserious.test.github.io/tags/test/
+https://fakeserious.test.github.io/categories/test/
