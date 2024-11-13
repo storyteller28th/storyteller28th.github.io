@@ -2,18 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://storyteller28th.github.io/2024/11/12/My-First-Post/</loc>
-    
-    <lastmod>2024-11-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://storyteller28th.github.io/categories/index.html</loc>
     
-    <lastmod>2024-11-12</lastmod>
+    <lastmod>2024-11-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -21,6 +12,24 @@
   
   <url>
     <loc>https://storyteller28th.github.io/tags/index.html</loc>
+    
+    <lastmod>2024-11-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://storyteller28th.github.io/2024/11/13/%E5%AD%A4%E7%8B%AC%E7%9A%84%E4%BA%BA/</loc>
+    
+    <lastmod>2024-11-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://storyteller28th.github.io/2024/11/12/My-First-Post/</loc>
     
     <lastmod>2024-11-12</lastmod>
     
@@ -40,7 +49,7 @@
 
   <url>
     <loc>https://storyteller28th.github.io/</loc>
-    <lastmod>2024-11-12</lastmod>
+    <lastmod>2024-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,7 +57,14 @@
   
   <url>
     <loc>https://storyteller28th.github.io/tags/test/</loc>
-    <lastmod>2024-11-12</lastmod>
+    <lastmod>2024-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://storyteller28th.github.io/tags/%E7%AC%AC%E4%B8%80%E4%BA%BA%E7%A7%B0/</loc>
+    <lastmod>2024-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -57,7 +73,7 @@
   
   <url>
     <loc>https://storyteller28th.github.io/categories/test/</loc>
-    <lastmod>2024-11-12</lastmod>
+    <lastmod>2024-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
